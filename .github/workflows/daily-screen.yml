@@ -1,0 +1,38 @@
+name: Daily US Stock Screen
+
+on:
+  schedule:
+    # 21:30 UTC, Mon-Fri -> after US market close year-round (EST/EDT)
+    - cron: "30 21 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run screener
+        run: python3 main.py --out-dir results
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: daily screen results $(date -u +%F)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
