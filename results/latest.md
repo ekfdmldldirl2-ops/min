@@ -1,61 +1,62 @@
-# 미국 대형주 기술적 스크리닝 (2026-10-31)
+# 미국 대형주 기술적 스크리닝 (2026-11-03)
 
 - 대상: 시가총액 상위 50개
 - 조건: RSI 30~35 / OBV > 20일 평균 / 구름대 최다밀집구간 하단 2% 이내 / 매물대(POC·Value Area 하단) 2% 이내
 
 ## 관심 종목 (조건 2개 이상 충족)
 
-- **BAC** (Bank of America Corporation): RSI 30~35, OBV>평균 — 현재가 nan
+- **NVDA** (NVIDIA Corporation): RSI 30~35, 구름대 지지 — 현재가 202.06
+- **RTX** (RTX Corporation): OBV>평균, 구름대 지지 — 현재가 202.79
 
 | # | 티커 | 종목명 | 현재가 | MA25 | MA112 | MA224 | MA448 | RSI | OBV>평균 | 구름대 목표가(이격) | 매물대 POC(이격) | 매칭 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | BAC | Bank of America Corporation | nan | N/A | N/A | N/A | N/A | 32.9 | ✅ | 57.78 (+nan%) | 53.53 (+nan%) | 2/4 |
-| 2 | NFLX | Netflix, Inc. | nan | N/A | N/A | N/A | N/A | 30.5 | — | 77.53 (+nan%) | 95.29 (+nan%) | 1/4 |
-| 3 | META | Meta Platforms, Inc. | nan | N/A | N/A | N/A | N/A | 35.0 | — | 579.24 (+nan%) | 659.77 (+nan%) | 1/4 |
-| 4 | AMAT | Applied Materials, Inc. | nan | N/A | N/A | N/A | N/A | 43.6 | ✅ | 472.52 (+nan%) | 344.17 (+nan%) | 1/4 |
-| 5 | MU | Micron Technology, Inc. | nan | N/A | N/A | N/A | N/A | 47.1 | ✅ | 845.45 (+nan%) | 418.35 (+nan%) | 1/4 |
-| 6 | TSM | Taiwan Semiconductor Manufactur | nan | N/A | N/A | N/A | N/A | 48.1 | ✅ | 381.98 (+nan%) | 418.52 (+nan%) | 1/4 |
-| 7 | ASML | ASML Holding N.V. - New York Re | nan | N/A | N/A | N/A | N/A | 48.9 | ✅ | 1,682.39 (+nan%) | 1,407.17 (+nan%) | 1/4 |
-| 8 | MS | Morgan Stanley | nan | N/A | N/A | N/A | N/A | 50.6 | ✅ | 188.19 (+nan%) | 181.60 (+nan%) | 1/4 |
-| 9 | ORCL | Oracle Corporation | nan | N/A | N/A | N/A | N/A | 52.8 | ✅ | 129.75 (+nan%) | 147.49 (+nan%) | 1/4 |
-| 10 | GE | GE Aerospace | nan | N/A | N/A | N/A | N/A | 54.3 | ✅ | 325.94 (+nan%) | 309.39 (+nan%) | 1/4 |
-| 11 | GS | Goldman Sachs Group, Inc. (The) | nan | N/A | N/A | N/A | N/A | 54.8 | ✅ | 950.12 (+nan%) | 929.00 (+nan%) | 1/4 |
-| 12 | WFC | Wells Fargo & Company | nan | N/A | N/A | N/A | N/A | 57.4 | ✅ | 81.28 (+nan%) | 86.83 (+nan%) | 1/4 |
-| 13 | JPM | JP Morgan Chase & Co. | nan | N/A | N/A | N/A | N/A | 58.1 | ✅ | 330.88 (+nan%) | 310.78 (+nan%) | 1/4 |
-| 14 | KO | Coca-Cola Company (The) | nan | N/A | N/A | N/A | N/A | 58.7 | ✅ | 85.61 (+nan%) | 70.43 (+nan%) | 1/4 |
-| 15 | AXP | American Express Company | nan | N/A | N/A | N/A | N/A | 59.4 | ✅ | 300.54 (+nan%) | 313.89 (+nan%) | 1/4 |
-| 16 | RTX | RTX Corporation | nan | N/A | N/A | N/A | N/A | 60.3 | ✅ | 199.72 (+nan%) | 197.56 (+nan%) | 1/4 |
-| 17 | PG | Procter & Gamble Company (The) | nan | N/A | N/A | N/A | N/A | 61.3 | ✅ | 145.04 (+nan%) | 144.66 (+nan%) | 1/4 |
-| 18 | AAPL | Apple Inc. | nan | N/A | N/A | N/A | N/A | 61.4 | ✅ | 281.45 (+nan%) | 271.85 (+nan%) | 1/4 |
-| 19 | COST | Costco Wholesale Corporation | nan | N/A | N/A | N/A | N/A | 61.9 | ✅ | 937.98 (+nan%) | 998.68 (+nan%) | 1/4 |
-| 20 | JNJ | Johnson & Johnson | nan | N/A | N/A | N/A | N/A | 63.0 | ✅ | 251.99 (+nan%) | 242.04 (+nan%) | 1/4 |
-| 21 | TMO | Thermo Fisher Scientific Inc | nan | N/A | N/A | N/A | N/A | 65.4 | ✅ | 489.11 (+nan%) | 577.02 (+nan%) | 1/4 |
-| 22 | BRK-B | Berkshire Hathaway Inc. New | nan | N/A | N/A | N/A | N/A | 66.4 | ✅ | 502.85 (+nan%) | 503.92 (+nan%) | 1/4 |
-| 23 | HD | Home Depot, Inc. (The) | nan | N/A | N/A | N/A | N/A | 67.5 | ✅ | 327.93 (+nan%) | 344.92 (+nan%) | 1/4 |
-| 24 | V | Visa Inc. | nan | N/A | N/A | N/A | N/A | 67.7 | ✅ | 341.49 (+nan%) | 329.28 (+nan%) | 1/4 |
-| 25 | XOM | ExxonMobil Holdings Corporation | nan | N/A | N/A | N/A | N/A | 68.7 | ✅ | 154.13 (+nan%) | 149.56 (+nan%) | 1/4 |
-| 26 | WMT | Walmart Inc. | nan | N/A | N/A | N/A | N/A | 69.1 | ✅ | 111.92 (+nan%) | 119.29 (+nan%) | 1/4 |
-| 27 | CVX | Chevron Corporation | nan | N/A | N/A | N/A | N/A | 69.2 | ✅ | 192.47 (+nan%) | 185.85 (+nan%) | 1/4 |
-| 28 | ABBV | AbbVie Inc. | nan | N/A | N/A | N/A | N/A | 69.4 | ✅ | 226.20 (+nan%) | 224.50 (+nan%) | 1/4 |
-| 29 | AMGN | Amgen Inc. | nan | N/A | N/A | N/A | N/A | 69.6 | ✅ | 390.54 (+nan%) | 346.64 (+nan%) | 1/4 |
-| 30 | MA | Mastercard Incorporated | nan | N/A | N/A | N/A | N/A | 69.9 | ✅ | 542.82 (+nan%) | 493.72 (+nan%) | 1/4 |
-| 31 | GILD | Gilead Sciences, Inc. | nan | N/A | N/A | N/A | N/A | 70.0 | ✅ | 133.65 (+nan%) | 124.03 (+nan%) | 1/4 |
-| 32 | IBM | International Business Machines | nan | N/A | N/A | N/A | N/A | 71.7 | ✅ | 233.50 (+nan%) | 234.17 (+nan%) | 1/4 |
-| 33 | TXN | Texas Instruments Incorporated | nan | N/A | N/A | N/A | N/A | 71.8 | ✅ | 258.23 (+nan%) | 281.91 (+nan%) | 1/4 |
-| 34 | LLY | Eli Lilly and Company | nan | N/A | N/A | N/A | N/A | 74.4 | ✅ | 1,049.98 (+nan%) | 1,027.38 (+nan%) | 1/4 |
-| 35 | GOOG | Alphabet Inc. | nan | N/A | N/A | N/A | N/A | 22.1 | — | 338.00 (+nan%) | 339.60 (+nan%) | 0/4 |
-| 36 | GOOGL | Alphabet Inc. | nan | N/A | N/A | N/A | N/A | 22.3 | — | 340.36 (+nan%) | 341.38 (+nan%) | 0/4 |
-| 37 | CAT | Caterpillar, Inc. | nan | N/A | N/A | N/A | N/A | 26.2 | — | 815.30 (+nan%) | 811.97 (+nan%) | 0/4 |
-| 38 | LRCX | Lam Research Corporation | nan | N/A | N/A | N/A | N/A | 38.7 | — | 298.65 (+nan%) | 230.19 (+nan%) | 0/4 |
-| 39 | AMZN | Amazon.com, Inc. | nan | N/A | N/A | N/A | N/A | 40.7 | — | 238.85 (+nan%) | 249.58 (+nan%) | 0/4 |
-| 40 | NVDA | NVIDIA Corporation | nan | N/A | N/A | N/A | N/A | 42.3 | — | 200.40 (+nan%) | 183.06 (+nan%) | 0/4 |
-| 41 | CSCO | Cisco Systems, Inc. | nan | N/A | N/A | N/A | N/A | 46.7 | — | 105.62 (+nan%) | 78.77 (+nan%) | 0/4 |
-| 42 | AVGO | Broadcom Inc. | nan | N/A | N/A | N/A | N/A | 49.1 | — | 389.39 (+nan%) | 343.78 (+nan%) | 0/4 |
-| 43 | PANW | Palo Alto Networks, Inc. | nan | N/A | N/A | N/A | N/A | 50.8 | — | 273.99 (+nan%) | 165.19 (+nan%) | 0/4 |
-| 44 | AMD | Advanced Micro Devices, Inc. | nan | N/A | N/A | N/A | N/A | 50.9 | — | 369.65 (+nan%) | 205.86 (+nan%) | 0/4 |
-| 45 | MRK | Merck & Company, Inc. | nan | N/A | N/A | N/A | N/A | 52.4 | — | 134.24 (+nan%) | 120.40 (+nan%) | 0/4 |
-| 46 | PLTR | Palantir Technologies Inc. | nan | N/A | N/A | N/A | N/A | 53.4 | — | 156.28 (+nan%) | 134.34 (+nan%) | 0/4 |
-| 47 | MSFT | Microsoft Corporation | nan | N/A | N/A | N/A | N/A | 55.4 | — | 433.49 (+nan%) | 397.16 (+nan%) | 0/4 |
-| 48 | UNH | UnitedHealth Group Incorporated | nan | N/A | N/A | N/A | N/A | 59.3 | — | 343.76 (+nan%) | 284.25 (+nan%) | 0/4 |
-| 49 | LIN | Linde plc | nan | N/A | N/A | N/A | N/A | 61.2 | — | 472.22 (+nan%) | 494.06 (+nan%) | 0/4 |
-| 50 | TSLA | Tesla, Inc. | nan | N/A | N/A | N/A | N/A | 63.0 | — | 337.12 (+nan%) | 400.62 (+nan%) | 0/4 |
+| 1 | NVDA | NVIDIA Corporation | 202.06 | 222.07 | 214.37 | 202.26 | 177.61 | 33.3 | — | 200.40 (+0.8%) | 183.06 (+16.0%) | 2/4 |
+| 2 | RTX | RTX Corporation | 202.79 | 190.01 | 196.73 | 194.32 | 170.72 | 64.2 | ✅ | 199.72 (+1.5%) | 197.56 (+15.4%) | 2/4 |
+| 3 | BAC | Bank of America Corporation | 49.57 | 52.22 | 57.75 | 54.97 | 50.84 | 25.9 | — | 57.78 (-14.2%) | 53.53 (+0.2%) | 1/4 |
+| 4 | LRCX | Lam Research Corporation | 227.56 | 285.50 | 315.96 | 273.68 | 188.35 | 30.7 | — | 298.65 (-23.8%) | 230.19 (+16.0%) | 1/4 |
+| 5 | META | Meta Platforms, Inc. | 606.73 | 693.87 | 629.50 | 634.15 | 653.77 | 31.7 | — | 579.24 (+4.7%) | 607.86 (+4.9%) | 1/4 |
+| 6 | NFLX | Netflix, Inc. | 62.34 | 67.55 | 74.56 | 82.64 | 97.30 | 31.8 | — | 77.53 (-19.6%) | 95.29 (+34.6%) | 1/4 |
+| 7 | AMAT | Applied Materials, Inc. | 374.53 | 452.64 | 504.43 | 426.53 | 305.03 | 33.3 | — | 472.52 (-20.7%) | 344.17 (+32.0%) | 1/4 |
+| 8 | AMD | Advanced Micro Devices, Inc. | 466.84 | 573.78 | 526.21 | 390.45 | 270.45 | 34.6 | — | 369.65 (+26.3%) | 205.86 (+148.0%) | 1/4 |
+| 9 | AVGO | Broadcom Inc. | 322.23 | 345.65 | 376.10 | 365.36 | 318.92 | 39.3 | — | 389.39 (-17.2%) | 343.78 (+0.5%) | 1/4 |
+| 10 | GS | Goldman Sachs Group, Inc. (The) | 898.72 | 895.69 | 1,002.69 | 952.71 | 815.91 | 46.2 | ✅ | 950.12 (-5.4%) | 929.00 (+16.1%) | 1/4 |
+| 11 | TMO | Thermo Fisher Scientific Inc | 682.65 | 677.37 | 585.75 | 555.90 | 522.96 | 52.8 | ✅ | 489.39 (+39.5%) | 577.02 (+37.2%) | 1/4 |
+| 12 | JPM | JP Morgan Chase & Co. | 340.58 | 334.71 | 339.35 | 322.97 | 301.00 | 53.3 | ✅ | 330.88 (+2.9%) | 310.78 (+16.6%) | 1/4 |
+| 13 | GE | GE Aerospace | 315.78 | 305.54 | 336.44 | 321.63 | 285.33 | 55.2 | ✅ | 325.94 (-3.1%) | 309.39 (+12.4%) | 1/4 |
+| 14 | JNJ | Johnson & Johnson | 270.56 | 261.34 | 256.94 | 243.14 | 206.12 | 56.9 | ✅ | 251.99 (+7.4%) | 242.05 (+23.5%) | 1/4 |
+| 15 | XOM | ExxonMobil Holdings Corporation | 179.67 | 174.05 | 157.55 | 151.23 | 131.04 | 57.1 | ✅ | 154.13 (+16.6%) | 149.56 (+32.8%) | 1/4 |
+| 16 | CVX | Chevron Corporation | 227.77 | 219.41 | 198.22 | 189.47 | 170.29 | 58.7 | ✅ | 192.47 (+18.3%) | 185.86 (+36.6%) | 1/4 |
+| 17 | WFC | Wells Fargo & Company | 85.89 | 82.26 | 84.57 | 84.66 | 81.47 | 59.6 | ✅ | 81.28 (+5.7%) | 86.83 (+7.8%) | 1/4 |
+| 18 | TXN | Texas Instruments Incorporated | 302.02 | 289.25 | 285.31 | 251.76 | 217.25 | 60.5 | ✅ | 258.23 (+17.0%) | 281.91 (+52.5%) | 1/4 |
+| 19 | AXP | American Express Company | 327.98 | 312.51 | 327.80 | 331.23 | 320.72 | 61.3 | ✅ | 300.54 (+9.1%) | 313.89 (+10.9%) | 1/4 |
+| 20 | ABBV | AbbVie Inc. | 288.84 | 278.77 | 254.68 | 236.16 | 219.65 | 62.0 | ✅ | 226.20 (+27.7%) | 224.50 (+47.3%) | 1/4 |
+| 21 | IBM | International Business Machines | 252.51 | 236.73 | 246.28 | 254.73 | 260.52 | 62.6 | ✅ | 233.50 (+8.1%) | 234.17 (+22.7%) | 1/4 |
+| 22 | PG | Procter & Gamble Company (The) | 163.56 | 154.77 | 148.49 | 148.41 | 153.78 | 65.4 | ✅ | 145.04 (+12.8%) | 144.66 (+15.7%) | 1/4 |
+| 23 | KO | Coca-Cola Company (The) | 95.83 | 90.50 | 86.18 | 80.94 | 75.22 | 67.0 | ✅ | 85.61 (+11.9%) | 70.53 (+42.5%) | 1/4 |
+| 24 | AMGN | Amgen Inc. | 465.45 | 429.79 | 393.18 | 370.35 | 333.33 | 70.9 | ✅ | 390.54 (+19.2%) | 346.64 (+45.1%) | 1/4 |
+| 25 | LIN | Linde plc | 519.72 | 494.76 | 496.94 | 486.40 | 470.99 | 72.3 | ✅ | 472.22 (+10.1%) | 494.06 (+15.0%) | 1/4 |
+| 26 | COST | Costco Wholesale Corporation | 1,040.55 | 970.76 | 949.65 | 962.11 | 963.73 | 72.7 | ✅ | 937.98 (+10.9%) | 998.68 (+14.7%) | 1/4 |
+| 27 | GILD | Gilead Sciences, Inc. | 170.33 | 154.08 | 140.38 | 138.22 | 124.98 | 73.5 | ✅ | 133.65 (+27.4%) | 124.03 (+43.6%) | 1/4 |
+| 28 | HD | Home Depot, Inc. (The) | 341.15 | 304.68 | 323.23 | 336.45 | 357.42 | 73.7 | ✅ | 327.93 (+4.0%) | 344.92 (+13.2%) | 1/4 |
+| 29 | BRK-B | Berkshire Hathaway Inc. New | 556.11 | 525.64 | 505.30 | 496.40 | 496.04 | 74.7 | ✅ | 502.85 (+10.6%) | 500.27 (+16.9%) | 1/4 |
+| 30 | V | Visa Inc. | 425.51 | 391.75 | 362.74 | 343.22 | 343.94 | 75.1 | ✅ | 341.49 (+24.6%) | 328.77 (+41.6%) | 1/4 |
+| 31 | MA | Mastercard Incorporated | 658.10 | 600.04 | 555.01 | 539.83 | 549.54 | 76.2 | ✅ | 542.82 (+21.2%) | 496.50 (+35.9%) | 1/4 |
+| 32 | LLY | Eli Lilly and Company | 1,410.99 | 1,238.62 | 1,181.10 | 1,090.15 | 953.26 | 76.2 | ✅ | 1,049.98 (+34.4%) | 1,026.53 (+45.1%) | 1/4 |
+| 33 | WMT | Walmart Inc. | 127.69 | 114.64 | 112.75 | 118.12 | 108.37 | 77.9 | ✅ | 111.92 (+14.1%) | 119.29 (+16.3%) | 1/4 |
+| 34 | GOOG | Alphabet Inc. | 278.04 | 329.71 | 345.19 | 336.16 | 271.49 | 21.0 | — | 338.00 (-17.7%) | 339.60 (+18.1%) | 0/4 |
+| 35 | GOOGL | Alphabet Inc. | 278.99 | 332.95 | 347.73 | 337.82 | 271.73 | 21.2 | — | 340.36 (-18.0%) | 341.38 (+18.3%) | 0/4 |
+| 36 | CAT | Caterpillar, Inc. | 613.62 | 752.15 | 848.60 | 787.17 | 599.67 | 22.7 | — | 815.30 (-24.7%) | 811.97 (+24.4%) | 0/4 |
+| 37 | CSCO | Cisco Systems, Inc. | 101.61 | 110.27 | 114.02 | 98.66 | 82.40 | 35.3 | — | 105.62 (-3.8%) | 78.77 (+44.0%) | 0/4 |
+| 38 | ASML | ASML Holding N.V. - New York Re | 1,526.14 | 1,701.28 | 1,734.32 | 1,549.37 | 1,179.57 | 35.5 | — | 1,682.39 (-9.3%) | 1,407.17 (+16.1%) | 0/4 |
+| 39 | TSM | Taiwan Semiconductor Manufactur | 398.63 | 439.86 | 429.22 | 390.49 | 308.96 | 36.0 | — | 381.98 (+4.4%) | 418.52 (+19.7%) | 0/4 |
+| 40 | MU | Micron Technology, Inc. | 833.59 | 965.93 | 969.35 | 700.47 | 416.15 | 37.4 | — | 845.45 (-1.4%) | 418.35 (+332.8%) | 0/4 |
+| 41 | PLTR | Palantir Technologies Inc. | 178.34 | 195.04 | 160.63 | 156.69 | 147.62 | 37.7 | — | 156.28 (+14.1%) | 134.34 (+45.8%) | 0/4 |
+| 42 | ORCL | Oracle Corporation | 119.22 | 134.77 | 151.24 | 160.56 | 184.49 | 38.3 | — | 129.75 (-8.1%) | 146.65 (+18.7%) | 0/4 |
+| 43 | MSFT | Microsoft Corporation | 507.12 | 527.16 | 462.09 | 442.54 | 454.01 | 40.1 | — | 433.49 (+17.0%) | 397.16 (+43.2%) | 0/4 |
+| 44 | PANW | Palo Alto Networks, Inc. | 351.72 | 383.11 | 345.15 | 261.73 | 226.92 | 42.2 | — | 273.99 (+28.4%) | 165.19 (+152.0%) | 0/4 |
+| 45 | AMZN | Amazon.com, Inc. | 245.63 | 253.16 | 252.36 | 242.34 | 229.54 | 43.9 | — | 238.85 (+2.8%) | 249.58 (+10.0%) | 0/4 |
+| 46 | MS | Morgan Stanley | 185.73 | 186.33 | 207.38 | 192.91 | 166.60 | 45.4 | — | 188.19 (-1.3%) | 181.60 (+20.0%) | 0/4 |
+| 47 | AAPL | Apple Inc. | 338.32 | 340.26 | 320.26 | 293.94 | 261.67 | 47.9 | — | 281.45 (+20.2%) | 271.85 (+36.0%) | 0/4 |
+| 48 | UNH | UnitedHealth Group Incorporated | 400.44 | 394.12 | 400.81 | 360.11 | 368.69 | 51.0 | — | 343.76 (+16.5%) | 284.25 (+50.4%) | 0/4 |
+| 49 | MRK | Merck & Company, Inc. | 148.36 | 144.91 | 135.38 | 124.60 | 105.10 | 54.9 | — | 134.24 (+10.5%) | 120.40 (+56.0%) | 0/4 |
+| 50 | TSLA | Tesla, Inc. | 403.82 | 378.00 | 373.44 | 393.01 | 370.09 | 62.5 | — | 337.12 (+19.8%) | 400.62 (+11.3%) | 0/4 |
